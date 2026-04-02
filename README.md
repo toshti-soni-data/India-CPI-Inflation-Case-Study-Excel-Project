@@ -73,6 +73,3 @@ This project analyzes India’s **Consumer Price Index (CPI) inflation** using M
 Global crude oil prices show strong positive correlation with inflation in Food and Essentials (2021–2023)
 HOW TO USE THE EXCEL FILE
 
-Open the Excel workbook and navigate to the dashboard sheet
-Review charts and headline insights in one place
-Use underlying data sheets to adjust time periods, categories, or formulas for deeper analysis
